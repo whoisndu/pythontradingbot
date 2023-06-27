@@ -1,4 +1,5 @@
-#Python Trading Bot
+**Python Trading Bot**
+
 I transposed the trading bot designed by James Bachini into Python. The original work cna be found here -  https://github.com/jamesbachini/Market-Maker-Bot
 
 **Market Maker Bot (Python Adaptation)**
